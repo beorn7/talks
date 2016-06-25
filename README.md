@@ -14,13 +14,13 @@ By Björn “Beorn” Rabenstein.
    [slides](https://docs.google.com/presentation/d/1Wokf8lWaFWPfLeTjErVeiCfBb7uhluehkEndZCj__8k/edit?usp=sharing)
 1. 2015-05-15 _Prometheus Workshop_ (with Julius Volz) SRECon Europe 2015,
    Dublin, Ireland. [instructions](https://goo.gl/AdnkCw)
+1. 2015-06-02 _Prometheus: A Next-Generation Monitoring System_ (with Julius
+   Volz) DevOpsCon 2015, Berlin,
+   Germany. [slides](https://docs.google.com/presentation/d/1opLc6hBejepHPGC7p_0MDOjgyYfMRMkmk3wSXjJW-ME/edit?usp=sharing)
 1. 2015-07-08 _Prometheus: Designing and Implementing a Modern Monitoring
    Solution in Go_ Gophercon 2015, Denver, CO,
    USA. [video](https://www.youtube.com/watch?v=1V7eJ0jN8-E) –
    [slides](https://docs.google.com/presentation/d/1T_wdd2KGOPEBhHN6ubendIi87RhtadHOOSAwK0M-Exs/edit?usp=sharing)
-1. 2015-06-02 _Prometheus: A Next-Generation Monitoring System_ (with Julius
-   Volz) DevOpsCon 2015, Berlin,
-   Germany. [slides](https://docs.google.com/presentation/d/1opLc6hBejepHPGC7p_0MDOjgyYfMRMkmk3wSXjJW-ME/edit?usp=sharing)
 1. 2015-10-12 _Service Instrumentation, Monitoring, and Alerting with
    Prometheus_ (workshop with Julius Volz) Velocity 2015, New York, NY,
    USA. [slides](https://docs.google.com/presentation/d/1TyWHb1Ia7PiMNmdhDTr3Lma9qyIWm4M-JM5DuQpV168/edit?usp=sharing)
