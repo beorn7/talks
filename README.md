@@ -52,10 +52,9 @@ By Björn “Beorn” Rabenstein.
    UK. [slides](https://docs.google.com/presentation/d/12kdCqW0w1uNE81BXV79LTlWyBhuCzbi9yHr1zS8RUi4/edit?usp=sharing)
 1. 2016-05-10 _Monitoring Kubernetes Clusters with Prometheus_ (with Fabian
    Reinartz) CoreOS Fest, Berlin,
-   Germany. [slides](https://docs.google.com/presentation/d/1UgwbdB-cDqxBmjVQj4sSVQ5rNCL-M-F0l7Uy-hiy00Q/edit?usp=sharing)
+   Germany. [video](https://www.youtube.com/watch?v=8bIxBtJQBzQ) – [slides](https://docs.google.com/presentation/d/1UgwbdB-cDqxBmjVQj4sSVQ5rNCL-M-F0l7Uy-hiy00Q/edit?usp=sharing)
 1. 2016-06-15 _Monitoring a Kubernetes-backed Microservice Architecture with
    Prometheus_ (with Fabian Reinartz) DevOpsCon 2015, Berlin,
    Germany. [slides](https://docs.google.com/presentation/d/1D-enDvx66pV0uHP2_5ey5-XSu9mZqVym3MukHz-Q8J8/edit?usp=sharing)
-
 
 ## Planned talks 
