@@ -58,3 +58,14 @@ By Björn “Beorn” Rabenstein.
    Germany. [slides](https://docs.google.com/presentation/d/1D-enDvx66pV0uHP2_5ey5-XSu9mZqVym3MukHz-Q8J8/edit?usp=sharing)
 
 ## Planned talks 
+
+1. 2016-07-12 _Alerting for Distributed Systems — A Tale of Symptoms and
+   Causes, Signals and Noise_ SRECon Europe, Dublin,
+   Ireland. [abstract](https://www.usenix.org/conference/srecon16europe/program/presentation/rabenstein)
+1. 2016-08-18 _Grand Treatise of Modern Instrumentation and Orchestration_
+   GolangUK, London, UK.
+1. 2016-08-18 Prometheus Meetup, London, UK.
+1. 2016-08-25/26 _The Prometheus Time Series Database_ PromCon, Berlin,
+   Germany.
+1. 2016-11-07/08 _Kubernetes and Prometheus – the Beginning of a Beautiful
+   Friendship_ Velocity, Amsterdam, Netherlands.
