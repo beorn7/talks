@@ -56,6 +56,9 @@ By Björn “Beorn” Rabenstein.
 1. 2016-06-15 _Monitoring a Kubernetes-backed Microservice Architecture with
    Prometheus_ (with Fabian Reinartz) DevOpsCon 2015, Berlin,
    Germany. [slides](https://docs.google.com/presentation/d/1D-enDvx66pV0uHP2_5ey5-XSu9mZqVym3MukHz-Q8J8/edit?usp=sharing)
+1. 2016-06-27 _A Tale of Hashes, Maps, and Runtime_ Meetup of the GDG Berlin
+   Golang, Berlin,
+   Germany. [slides](https://docs.google.com/presentation/d/1zGtJFPd1PaJ-dMB_b_RtjyFLLeEtrG2UaZhUEQYXcAs/edit?usp=sharing)
 
 ## Planned talks 
 
