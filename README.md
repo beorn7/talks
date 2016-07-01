@@ -70,5 +70,5 @@ By Björn “Beorn” Rabenstein.
 1. 2016-08-18 Prometheus Meetup, London, UK.
 1. 2016-08-25/26 _The Prometheus Time Series Database_ PromCon, Berlin,
    Germany.
-1. 2016-11-07/08 _Kubernetes and Prometheus – the Beginning of a Beautiful
+1. 2016-11-08 _Kubernetes and Prometheus – the Beginning of a Beautiful
    Friendship_ Velocity, Amsterdam, Netherlands.
