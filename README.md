@@ -59,12 +59,12 @@ By Björn “Beorn” Rabenstein.
 1. 2016-06-27 _A Tale of Hashes, Maps, and Runtime_ Meetup of the GDG Berlin
    Golang, Berlin,
    Germany. [slides](https://docs.google.com/presentation/d/1zGtJFPd1PaJ-dMB_b_RtjyFLLeEtrG2UaZhUEQYXcAs/edit?usp=sharing)
+1. 2016-07-12 _Alerting for Distributed Systems — A Tale of Symptoms and
+   Causes, Signals and Noise_ SRECon Europe, Dublin,
+   Ireland. [video (pending)](https://www.usenix.org/conference/srecon16europe/program/presentation/rabenstein) – [slides](https://docs.google.com/presentation/d/1vtmOfrVbIYdc-IctePjF6-4hQd9VyN21ZDylQeFWlpA/edit?usp=sharing)
 
 ## Planned talks 
 
-1. 2016-07-12 _Alerting for Distributed Systems — A Tale of Symptoms and
-   Causes, Signals and Noise_ SRECon Europe, Dublin,
-   Ireland. [abstract](https://www.usenix.org/conference/srecon16europe/program/presentation/rabenstein)
 1. 2016-08-18 _Grand Treatise of Modern Instrumentation and Orchestration_
    GolangUK, London, UK.
 1. 2016-08-18 Prometheus Meetup, London, UK.
