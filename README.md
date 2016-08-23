@@ -68,7 +68,12 @@ By Björn “Beorn” Rabenstein.
 
 ## Planned talks 
 
-1. 2016-08-25/26 _The Prometheus Time Series Database_ PromCon, Berlin,
+1. 2016-08-25 _The Prometheus Time Series Database_ PromCon, Berlin,
    Germany.
+1. 2016-08-26 _Plural of Prometheus_ (lightnning talk) PromCon, Berlin,
+   Germany.
+1. 2016-08-31 _Grand Treatise of Modern Instrumentation and Orchestration
+   (extended version)_ Meetup of the GDG Berlin Golang, Berlin,
+   Germany. [slides](https://docs.google.com/a/soundcloud.com/presentation/d/1GjpaIoS5VxmS5SwUAp7zH3aq6v8dGWutofLvJEdmcOw/edit?usp=sharing)
 1. 2016-11-08 _Kubernetes and Prometheus – the Beginning of a Beautiful
    Friendship_ Velocity, Amsterdam, Netherlands.
