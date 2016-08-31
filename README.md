@@ -69,11 +69,11 @@ By Björn “Beorn” Rabenstein.
    Germany. [slides](https://docs.google.com/presentation/d/1TMvzwdaS8Vw9MtscI9ehDyiMngII8iB_Z5D4QW4U4ho/edit?usp=sharing)
 1. 2016-08-26 _Plural of Prometheus_ (lightnning talk) PromCon, Berlin,
    Germany. [slides](https://docs.google.com/presentation/d/1-Bp7wcUmj6WHCBNLK75nnaX7iwE-8LnobB5a_mrY644/edit?usp=sharing)
+1. 2016-08-31 _Grand Treatise of Modern Instrumentation and Orchestration
+   (extended version)_ Meetup of the GDG Berlin Golang, Berlin,
+   Germany. [video](https://youtu.be/OwObdHKN-W0?t=5441) – [slides](https://docs.google.com/a/soundcloud.com/presentation/d/1GjpaIoS5VxmS5SwUAp7zH3aq6v8dGWutofLvJEdmcOw/edit?usp=sharing)
 
 ## Planned talks 
 
-1. 2016-08-31 _Grand Treatise of Modern Instrumentation and Orchestration
-   (extended version)_ Meetup of the GDG Berlin Golang, Berlin,
-   Germany. [slides](https://docs.google.com/a/soundcloud.com/presentation/d/1GjpaIoS5VxmS5SwUAp7zH3aq6v8dGWutofLvJEdmcOw/edit?usp=sharing)
 1. 2016-11-08 _Kubernetes and Prometheus – the Beginning of a Beautiful
    Friendship_ Velocity, Amsterdam, Netherlands.
