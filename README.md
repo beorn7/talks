@@ -66,9 +66,9 @@ By Björn “Beorn” Rabenstein.
    GolangUK, London, UK. [slides](https://docs.google.com/a/soundcloud.com/presentation/d/1GjpaIoS5VxmS5SwUAp7zH3aq6v8dGWutofLvJEdmcOw/edit?usp=sharing)
 1. 2016-08-18 [Prometheus Meetup](http://www.meetup.com/Prometheus-London/events/232832512/), London, UK.
 1. 2016-08-25 _The Prometheus Time Series Database_ PromCon, Berlin,
-   Germany. [slides](https://docs.google.com/presentation/d/1TMvzwdaS8Vw9MtscI9ehDyiMngII8iB_Z5D4QW4U4ho/edit?usp=sharing)
-1. 2016-08-26 _Plural of Prometheus_ (lightnning talk) PromCon, Berlin,
-   Germany. [slides](https://docs.google.com/presentation/d/1-Bp7wcUmj6WHCBNLK75nnaX7iwE-8LnobB5a_mrY644/edit?usp=sharing)
+   Germany. [video](https://www.youtube.com/watch?v=HbnGSNEjhUc) [slides](https://docs.google.com/presentation/d/1TMvzwdaS8Vw9MtscI9ehDyiMngII8iB_Z5D4QW4U4ho/edit?usp=sharing)
+1. 2016-08-26 _Plural of Prometheus_ (lightning talk) PromCon, Berlin,
+   Germany. [video](https://www.youtube.com/watch?v=B_CDeYrqxjQ) [slides](https://docs.google.com/presentation/d/1-Bp7wcUmj6WHCBNLK75nnaX7iwE-8LnobB5a_mrY644/edit?usp=sharing)
 1. 2016-08-31 _Grand Treatise of Modern Instrumentation and Orchestration
    (extended version)_ Meetup of the GDG Berlin Golang, Berlin,
    Germany. [video](https://youtu.be/OwObdHKN-W0?t=5441) – [slides](https://docs.google.com/a/soundcloud.com/presentation/d/1GjpaIoS5VxmS5SwUAp7zH3aq6v8dGWutofLvJEdmcOw/edit?usp=sharing)
