@@ -61,19 +61,21 @@ By Björn “Beorn” Rabenstein.
    Germany. [slides](https://docs.google.com/presentation/d/1zGtJFPd1PaJ-dMB_b_RtjyFLLeEtrG2UaZhUEQYXcAs/edit?usp=sharing)
 1. 2016-07-12 _Alerting for Distributed Systems — A Tale of Symptoms and
    Causes, Signals and Noise_ SRECon Europe, Dublin,
-   Ireland. [video (pending)](https://www.usenix.org/conference/srecon16europe/program/presentation/rabenstein) – [slides](https://docs.google.com/presentation/d/1vtmOfrVbIYdc-IctePjF6-4hQd9VyN21ZDylQeFWlpA/edit?usp=sharing)
+   Ireland. [video](https://www.usenix.org/conference/srecon16europe/program/presentation/rabenstein) – [slides](https://docs.google.com/presentation/d/1vtmOfrVbIYdc-IctePjF6-4hQd9VyN21ZDylQeFWlpA/edit?usp=sharing)
 1. 2016-08-18 _Grand Treatise of Modern Instrumentation and Orchestration_
    GolangUK, London, UK. [slides](https://docs.google.com/a/soundcloud.com/presentation/d/1GjpaIoS5VxmS5SwUAp7zH3aq6v8dGWutofLvJEdmcOw/edit?usp=sharing)
 1. 2016-08-18 [Prometheus Meetup](http://www.meetup.com/Prometheus-London/events/232832512/), London, UK.
 1. 2016-08-25 _The Prometheus Time Series Database_ PromCon, Berlin,
-   Germany. [video](https://www.youtube.com/watch?v=HbnGSNEjhUc) [slides](https://docs.google.com/presentation/d/1TMvzwdaS8Vw9MtscI9ehDyiMngII8iB_Z5D4QW4U4ho/edit?usp=sharing)
+   Germany. [video](https://www.youtube.com/watch?v=HbnGSNEjhUc) — [slides](https://docs.google.com/presentation/d/1TMvzwdaS8Vw9MtscI9ehDyiMngII8iB_Z5D4QW4U4ho/edit?usp=sharing)
 1. 2016-08-26 _Plural of Prometheus_ (lightning talk) PromCon, Berlin,
-   Germany. [video](https://www.youtube.com/watch?v=B_CDeYrqxjQ) [slides](https://docs.google.com/presentation/d/1-Bp7wcUmj6WHCBNLK75nnaX7iwE-8LnobB5a_mrY644/edit?usp=sharing)
+   Germany. [video](https://www.youtube.com/watch?v=B_CDeYrqxjQ) — [slides](https://docs.google.com/presentation/d/1-Bp7wcUmj6WHCBNLK75nnaX7iwE-8LnobB5a_mrY644/edit?usp=sharing)
 1. 2016-08-31 _Grand Treatise of Modern Instrumentation and Orchestration
    (extended version)_ Meetup of the GDG Berlin Golang, Berlin,
    Germany. [video](https://youtu.be/OwObdHKN-W0?t=5441) – [slides](https://docs.google.com/a/soundcloud.com/presentation/d/1GjpaIoS5VxmS5SwUAp7zH3aq6v8dGWutofLvJEdmcOw/edit?usp=sharing)
+1. 2016-11-08 _Kubernetes and Prometheus – the Beginning of a Beautiful
+   Friendship_ Velocity, Amsterdam, Netherlands. [slides](https://docs.google.com/presentation/d/1Ad-Q8752SJmgXsNnSn9RFQP7Kn0kPEt27nDNKDKi9x4/edit?usp=sharing)
+1. 2016-11-12 _Kubernetes and Prometheus – Clound Natives United_ GDG DevFest, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1Mzso-prudoCsVbZnsM7_Oq7b_Suin3qjclfmxDdstUA/edit?usp=sharing)
+
 
 ## Planned talks 
 
-1. 2016-11-08 _Kubernetes and Prometheus – the Beginning of a Beautiful
-   Friendship_ Velocity, Amsterdam, Netherlands.
