@@ -1,4 +1,4 @@
-# Public Talks and Workshops
+# Talks and Workshops
 
 By Björn “Beorn” Rabenstein.
 
@@ -74,7 +74,7 @@ By Björn “Beorn” Rabenstein.
    Germany. [video](https://youtu.be/OwObdHKN-W0?t=5441) – [slides](https://docs.google.com/a/soundcloud.com/presentation/d/1GjpaIoS5VxmS5SwUAp7zH3aq6v8dGWutofLvJEdmcOw/edit?usp=sharing)
 1. 2016-11-08 _Kubernetes and Prometheus – the Beginning of a Beautiful
    Friendship_ Velocity, Amsterdam, Netherlands. [slides](https://docs.google.com/presentation/d/1Ad-Q8752SJmgXsNnSn9RFQP7Kn0kPEt27nDNKDKi9x4/edit?usp=sharing)
-1. 2016-11-12 _Kubernetes and Prometheus – Clound Natives United_ GDG DevFest, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1Mzso-prudoCsVbZnsM7_Oq7b_Suin3qjclfmxDdstUA/edit?usp=sharing)
+1. 2016-11-12 _Kubernetes and Prometheus – Cloud Natives United_ GDG DevFest, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1Mzso-prudoCsVbZnsM7_Oq7b_Suin3qjclfmxDdstUA/edit?usp=sharing)
 
 
 ## Planned talks 
