@@ -46,7 +46,7 @@ By Björn “Beorn” Rabenstein.
    server_ Go 1.6 release party of the GDG Berlin Golang, Berlin,
    Germany. [slides](https://docs.google.com/presentation/d/1qZlving4s726VWNfKBDDiWlQwOtM12_Pg7DK7VDJIxQ/edit?usp=sharing)
 1. 2016-04-05 _Instrumenting Code for Modern Service Monitoring_ Istanbul Tech
-   Talks, Istanbul, Turkey. [slides](https://docs.google.com/presentation/d/1zk7YDR1r4FqjrP7Z69Vk0H4uWiALOorjfFtUMuA3rdc/edit?usp=sharing)
+   Talks, Istanbul, Turkey. [video](https://www.youtube.com/watch?v=ChXbplvyTqk) – [slides](https://docs.google.com/presentation/d/1zk7YDR1r4FqjrP7Z69Vk0H4uWiALOorjfFtUMuA3rdc/edit?usp=sharing)
 1. 2016-04-27 _Monitoring a Kubernetes-backed Microservice Architecture with
    Prometheus_ (with Fabian Reinartz) JAX DevOps, London,
    UK. [slides](https://docs.google.com/presentation/d/12kdCqW0w1uNE81BXV79LTlWyBhuCzbi9yHr1zS8RUi4/edit?usp=sharing)
@@ -75,7 +75,6 @@ By Björn “Beorn” Rabenstein.
 1. 2016-11-08 _Kubernetes and Prometheus – the Beginning of a Beautiful
    Friendship_ Velocity, Amsterdam, Netherlands. [slides](https://docs.google.com/presentation/d/1Ad-Q8752SJmgXsNnSn9RFQP7Kn0kPEt27nDNKDKi9x4/edit?usp=sharing)
 1. 2016-11-12 _Kubernetes and Prometheus – Cloud Natives United_ GDG DevFest, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1Mzso-prudoCsVbZnsM7_Oq7b_Suin3qjclfmxDdstUA/edit?usp=sharing)
-
 
 ## Planned talks 
 
