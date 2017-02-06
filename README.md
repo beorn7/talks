@@ -73,8 +73,12 @@ By Björn “Beorn” Rabenstein.
    (extended version)_ Meetup of the GDG Berlin Golang, Berlin,
    Germany. [video](https://youtu.be/OwObdHKN-W0?t=5441) – [slides](https://docs.google.com/a/soundcloud.com/presentation/d/1GjpaIoS5VxmS5SwUAp7zH3aq6v8dGWutofLvJEdmcOw/edit?usp=sharing)
 1. 2016-11-08 _Kubernetes and Prometheus – the Beginning of a Beautiful
-   Friendship_ Velocity, Amsterdam, Netherlands. [slides](https://docs.google.com/presentation/d/1Ad-Q8752SJmgXsNnSn9RFQP7Kn0kPEt27nDNKDKi9x4/edit?usp=sharing)
+   Friendship_ Velocity, Amsterdam, Netherlands. [video](https://www.oreilly.com/learning/kubernetes-and-prometheus-the-beginning-of-a-beautiful-friendship) – [slides](https://docs.google.com/presentation/d/1Ad-Q8752SJmgXsNnSn9RFQP7Kn0kPEt27nDNKDKi9x4/edit?usp=sharing)
 1. 2016-11-12 _Kubernetes and Prometheus – Cloud Natives United_ GDG DevFest, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1Mzso-prudoCsVbZnsM7_Oq7b_Suin3qjclfmxDdstUA/edit?usp=sharing)
+1. 2017-02-03 _What Makes Prometheus a “Next Generation” Monitoring System?_ DESY Zeuthen, Germany. [slides](https://docs.google.com/presentation/d/1yZF8bdjlf8DzLLRmHffgSMv2-mwGWnfsVyIy5MnSxaA/edit?usp=sharing)
 
 ## Planned talks 
 
+1. 2017-03-30 _Configuring Prometheus for High Performance_ CloudNativeCon, Berlin, Germany.
+1. 2017-04-27 _Life of a PromQL Query_ Percona Live, Santa Clara, CA, USA. 
+1. 2017-06-12/15 _Profiling is for Dev, Monitoring is for Ops – No More!_ DevOpsCon, Berlin, Germany.
