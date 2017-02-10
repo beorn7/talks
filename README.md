@@ -63,7 +63,7 @@ By Björn “Beorn” Rabenstein.
    Causes, Signals and Noise_ SRECon Europe, Dublin,
    Ireland. [video](https://www.usenix.org/conference/srecon16europe/program/presentation/rabenstein) – [slides](https://docs.google.com/presentation/d/1vtmOfrVbIYdc-IctePjF6-4hQd9VyN21ZDylQeFWlpA/edit?usp=sharing)
 1. 2016-08-18 _Grand Treatise of Modern Instrumentation and Orchestration_
-   GolangUK, London, UK. [slides](https://docs.google.com/a/soundcloud.com/presentation/d/1GjpaIoS5VxmS5SwUAp7zH3aq6v8dGWutofLvJEdmcOw/edit?usp=sharing)
+   GolangUK, London, UK. [video](https://www.youtube.com/watch?v=HkEZ1LJ7kzQ&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g) — [slides](https://docs.google.com/a/soundcloud.com/presentation/d/1GjpaIoS5VxmS5SwUAp7zH3aq6v8dGWutofLvJEdmcOw/edit?usp=sharing)
 1. 2016-08-18 [Prometheus Meetup](http://www.meetup.com/Prometheus-London/events/232832512/), London, UK.
 1. 2016-08-25 _The Prometheus Time Series Database_ PromCon, Berlin,
    Germany. [video](https://www.youtube.com/watch?v=HbnGSNEjhUc) — [slides](https://docs.google.com/presentation/d/1TMvzwdaS8Vw9MtscI9ehDyiMngII8iB_Z5D4QW4U4ho/edit?usp=sharing)
