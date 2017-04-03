@@ -76,9 +76,11 @@ By Björn “Beorn” Rabenstein.
    Friendship_ Velocity, Amsterdam, Netherlands. [video](https://www.oreilly.com/learning/kubernetes-and-prometheus-the-beginning-of-a-beautiful-friendship) – [slides](https://docs.google.com/presentation/d/1Ad-Q8752SJmgXsNnSn9RFQP7Kn0kPEt27nDNKDKi9x4/edit?usp=sharing)
 1. 2016-11-12 _Kubernetes and Prometheus – Cloud Natives United_ GDG DevFest, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1Mzso-prudoCsVbZnsM7_Oq7b_Suin3qjclfmxDdstUA/edit?usp=sharing)
 1. 2017-02-03 _What Makes Prometheus a “Next Generation” Monitoring System?_ DESY Zeuthen, Germany. [slides](https://docs.google.com/presentation/d/1yZF8bdjlf8DzLLRmHffgSMv2-mwGWnfsVyIy5MnSxaA/edit?usp=sharing)
+1. 2017-03-30 _Configuring Prometheus for High Performance_ CloudNativeCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=zop94VbeFeU&index=9&list=PLqm7NmbgjUExeDZU8xb2nxz-ysnjuC2Mz) – [slides](https://docs.google.com/presentation/d/1ewoVTB7BAQWd5xFsibTH5VlS47SPsjKCRRGos4o1crk/edit?usp=sharing)
 
 ## Planned talks 
 
-1. 2017-03-30 _Configuring Prometheus for High Performance_ CloudNativeCon, Berlin, Germany.
+1. 2017-04-12 _Why Your Alerting Should be Based on Labeled Time Series_ TechSummit, Berlin, Germany.
+1. 2017-04-25 _Open Source Database Ecosystem_ (keynote and panel; with Paul Dix, Tal Levy, Peter Zaitsev, Justin Teller) Percona Live, Santa Clara, CA, USA.
 1. 2017-04-27 _Life of a PromQL Query_ Percona Live, Santa Clara, CA, USA. 
 1. 2017-06-12/15 _Profiling is for Dev, Monitoring is for Ops – No More!_ DevOpsCon, Berlin, Germany.
