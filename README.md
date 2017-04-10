@@ -76,7 +76,7 @@ By Björn “Beorn” Rabenstein.
    Friendship_ Velocity, Amsterdam, Netherlands. [video](https://www.oreilly.com/learning/kubernetes-and-prometheus-the-beginning-of-a-beautiful-friendship) – [slides](https://docs.google.com/presentation/d/1Ad-Q8752SJmgXsNnSn9RFQP7Kn0kPEt27nDNKDKi9x4/edit?usp=sharing)
 1. 2016-11-12 _Kubernetes and Prometheus – Cloud Natives United_ GDG DevFest, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1Mzso-prudoCsVbZnsM7_Oq7b_Suin3qjclfmxDdstUA/edit?usp=sharing)
 1. 2017-02-03 _What Makes Prometheus a “Next Generation” Monitoring System?_ DESY Zeuthen, Germany. [slides](https://docs.google.com/presentation/d/1yZF8bdjlf8DzLLRmHffgSMv2-mwGWnfsVyIy5MnSxaA/edit?usp=sharing)
-1. 2017-03-30 _Configuring Prometheus for High Performance_ CloudNativeCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=zop94VbeFeU&index=9&list=PLqm7NmbgjUExeDZU8xb2nxz-ysnjuC2Mz) – [slides](https://docs.google.com/presentation/d/1ewoVTB7BAQWd5xFsibTH5VlS47SPsjKCRRGos4o1crk/edit?usp=sharing)
+1. 2017-03-30 _Configuring Prometheus for High Performance_ CloudNativeCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=zop94VbeFeU) – [slides](https://docs.google.com/presentation/d/1ewoVTB7BAQWd5xFsibTH5VlS47SPsjKCRRGos4o1crk/edit?usp=sharing)
 
 ## Planned talks 
 
