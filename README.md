@@ -78,9 +78,9 @@ By Björn “Beorn” Rabenstein.
 1. 2017-02-03 _What Makes Prometheus a “Next Generation” Monitoring System?_ DESY Zeuthen, Germany. [slides](https://docs.google.com/presentation/d/1yZF8bdjlf8DzLLRmHffgSMv2-mwGWnfsVyIy5MnSxaA/edit?usp=sharing)
 1. 2017-03-30 _Configuring Prometheus for High Performance_ CloudNativeCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=ch4I7IrhiMg) – [slides](https://docs.google.com/presentation/d/1ewoVTB7BAQWd5xFsibTH5VlS47SPsjKCRRGos4o1crk/edit?usp=sharing)
 1. 2017-04-12 _Why Your Alerting Should be Based on Labeled Time Series_ TechSummit, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1ke1bkF0EnVsJiE18OoNl1vu3cbc9-bqSH4oMEUxtDd0/edit?usp=sharing)
+1. 2017-04-25 _Open Source Database Ecosystem_ (keynote and panel; with Paul Dix, Tal Levy, Peter Zaitsev, Justin Teller) Percona Live, Santa Clara, CA, USA.
+1. 2017-04-27 _Life of a PromQL Query_ Percona Live, Santa Clara, CA, USA. [slides](https://docs.google.com/presentation/d/12aiveDqUe_f390juSML0XKCCP0_Zyzvs6GWr4QoTAis/edit?usp=sharing)
 
 ## Planned talks 
 
-1. 2017-04-25 _Open Source Database Ecosystem_ (keynote and panel; with Paul Dix, Tal Levy, Peter Zaitsev, Justin Teller) Percona Live, Santa Clara, CA, USA.
-1. 2017-04-27 _Life of a PromQL Query_ Percona Live, Santa Clara, CA, USA. 
 1. 2017-06-12/15 _Profiling is for Dev, Monitoring is for Ops – No More!_ DevOpsCon, Berlin, Germany.
