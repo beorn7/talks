@@ -80,7 +80,7 @@ By Björn “Beorn” Rabenstein.
 1. 2017-04-12 _Why Your Alerting Should be Based on Labeled Time Series_ TechSummit, Berlin, Germany. [video](https://youtu.be/-oupSWjLmRc) – [slides](https://docs.google.com/presentation/d/1ke1bkF0EnVsJiE18OoNl1vu3cbc9-bqSH4oMEUxtDd0/edit?usp=sharing)
 1. 2017-04-25 _Open Source Database Ecosystem_ (keynote and panel; with Paul Dix, Tal Levy, Peter Zaitsev, Justin Teller) Percona Live, Santa Clara, CA, USA.
 1. 2017-04-27 _Life of a PromQL Query_ Percona Live, Santa Clara, CA, USA. [slides](https://docs.google.com/presentation/d/12aiveDqUe_f390juSML0XKCCP0_Zyzvs6GWr4QoTAis/edit?usp=sharing)
-1. 2017-06-14 _Profiling is for Dev, Monitoring is for Ops – No More!_ DevOpsCon, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1zNPFqueQTnt_PdfIYFhRQwpCym7AYin9PmdF7qJhs2s/edit?usp=sharing)
+1. 2017-06-14 _Profiling is for Dev, Monitoring is for Ops – No More!_ DevOpsCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=JcOfGQPSW6E) – [slides](https://docs.google.com/presentation/d/1zNPFqueQTnt_PdfIYFhRQwpCym7AYin9PmdF7qJhs2s/edit?usp=sharing)
 
 ## Planned talks 
 
