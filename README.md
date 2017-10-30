@@ -84,4 +84,7 @@ By Björn “Beorn” Rabenstein.
 
 ## Planned talks 
 
+1. 2017-11-04 _What Does Go Tell Us About Google?_ GDG DevFest, Berlin, Germany.
 1. 2017-11-16 _Four Years in – How Prometheus Revolutionized Monitoring at SoundCloud_ GOTO, Berlin, Germany.
+1. 2017-12-07 _SRE for Mere Mortals_ Code Europe, Warsaw, Poland.
+1. 2018-02-20/21 _Modern Monitoring for Dev and Ops_ DevOps Gathering, Bochum, Germany.
