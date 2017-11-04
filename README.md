@@ -81,10 +81,10 @@ By Björn “Beorn” Rabenstein.
 1. 2017-04-25 _Open Source Database Ecosystem_ (keynote and panel; with Paul Dix, Tal Levy, Peter Zaitsev, Justin Teller) Percona Live, Santa Clara, CA, USA.
 1. 2017-04-27 _Life of a PromQL Query_ Percona Live, Santa Clara, CA, USA. [slides](https://docs.google.com/presentation/d/12aiveDqUe_f390juSML0XKCCP0_Zyzvs6GWr4QoTAis/edit?usp=sharing)
 1. 2017-06-14 _Profiling is for Dev, Monitoring is for Ops – No More!_ DevOpsCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=JcOfGQPSW6E) – [slides](https://docs.google.com/presentation/d/1zNPFqueQTnt_PdfIYFhRQwpCym7AYin9PmdF7qJhs2s/edit?usp=sharing)
+1. 2017-11-04 _What Does Go Tell Us About Google?_ GDG DevFest, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1rn0WeynIHytCRseGBK7dZmq6o7zHSAtq8jOG_nJEvxg/edit?usp=sharing)
 
 ## Planned talks 
 
-1. 2017-11-04 _What Does Go Tell Us About Google?_ GDG DevFest, Berlin, Germany.
 1. 2017-11-16 _Four Years in – How Prometheus Revolutionized Monitoring at SoundCloud_ GOTO, Berlin, Germany.
 1. 2017-12-07 _SRE for Mere Mortals_ Code Europe, Warsaw, Poland.
 1. 2018-02-20/21 _Modern Monitoring for Dev and Ops_ DevOps Gathering, Bochum, Germany.
