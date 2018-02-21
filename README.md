@@ -88,4 +88,4 @@ By Björn “Beorn” Rabenstein.
 
 ## Planned talks 
 
-
+1. 2018-05-30 _Working up the Hierarchy of Service Reliability_ DevOpsCon, Berlin, Germany.
