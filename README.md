@@ -89,3 +89,4 @@ By Björn “Beorn” Rabenstein.
 ## Planned talks 
 
 1. 2018-05-30 _Working up the Hierarchy of Service Reliability_ DevOpsCon, Berlin, Germany.
+1. 2018-06-08 _SoundCloud Seeking SRE_ DevTalks, Bucharest, Romania.
