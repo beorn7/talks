@@ -90,3 +90,4 @@ By Björn “Beorn” Rabenstein.
 ## Planned talks 
 
 1. 2018-06-08 _SoundCloud Seeking SRE_ DevTalks, Bucharest, Romania.
+1. 2018-08-29/31 _SoundCloud's Story of Seeking Sustainable SRE_ SRECon EMEA, Düsseldorf, Germany.
