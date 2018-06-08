@@ -86,8 +86,8 @@ By Björn “Beorn” Rabenstein.
 1. 2017-12-07 _SRE for Mere Mortals_ Code Europe, Warsaw, Poland. [slides](https://docs.google.com/presentation/d/1k_fuTlza1dyWnXG40FReCrtmbvCwTuanbCWKIDXC8s4/edit?usp=sharing)
 1. 2018-02-21 _Modern Monitoring for Dev and Ops_ DevOps Gathering, Bochum, Germany. [slides](https://docs.google.com/presentation/d/1x7nHYRkdvuKUdcCa66rFFyk6PROVbCJnknI0mpcgZuE/edit?usp=sharing)
 1. 2018-05-30 _Working up the Hierarchy of Service Reliability_ DevOpsCon, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1nXc2O3QmY-3BySMpld14Ri3GSGKg3S85BI55iN_NqGs/edit?usp=sharing)
+1. 2018-06-08 _SoundCloud Seeking SRE_ DevTalks, Bucharest, Romania. [slides](https://docs.google.com/presentation/d/1qv_4V4WIC1e6Y1WiX1ozBbwumewkemH0So7VNAJaZJE/edit?usp=sharing)
 
 ## Planned talks 
 
-1. 2018-06-08 _SoundCloud Seeking SRE_ DevTalks, Bucharest, Romania.
 1. 2018-08-29/31 _SoundCloud's Story of Seeking Sustainable SRE_ SRECon EMEA, Düsseldorf, Germany.
