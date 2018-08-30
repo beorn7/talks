@@ -89,5 +89,7 @@ By Björn “Beorn” Rabenstein.
 1. 2018-06-08 _SoundCloud Seeking SRE_ DevTalks, Bucharest, Romania. [slides](https://docs.google.com/presentation/d/1qv_4V4WIC1e6Y1WiX1ozBbwumewkemH0So7VNAJaZJE/edit?usp=sharing)
 1. 2018-08-29/31 _SoundCloud's Story of Seeking Sustainable SRE_ SRECon EMEA, Düsseldorf, Germany. [slides](https://docs.google.com/presentation/d/1Z_LsHYeFXJrBOPxjXHuTC069BLvvLb9I1kfED8QCGfQ/edit?usp=sharing)
 
-## Planned talks 
+## Planned talks
+
+1, 2018-09-29 _SRE, DevOps, Google, and you_ IT Arena, Lviv, Ukraine.
 
