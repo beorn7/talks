@@ -91,5 +91,5 @@ By Björn “Beorn” Rabenstein.
 
 ## Planned talks
 
-1, 2018-09-29 _SRE, DevOps, Google, and you_ IT Arena, Lviv, Ukraine.
-
+1. 2018-09-29 _SRE, DevOps, Google, and you_ IT Arena, Lviv, Ukraine.
+1. 2018-11-21 _About SRE – and how (not) to apply it_ Codemotion, Berlin, Germany.
