@@ -87,7 +87,7 @@ By Björn “Beorn” Rabenstein.
 1. 2018-02-21 _Modern Monitoring for Dev and Ops_ DevOps Gathering, Bochum, Germany. [slides](https://docs.google.com/presentation/d/1x7nHYRkdvuKUdcCa66rFFyk6PROVbCJnknI0mpcgZuE/edit?usp=sharing)
 1. 2018-05-30 _Working up the Hierarchy of Service Reliability_ DevOpsCon, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1nXc2O3QmY-3BySMpld14Ri3GSGKg3S85BI55iN_NqGs/edit?usp=sharing)
 1. 2018-06-08 _SoundCloud Seeking SRE_ DevTalks, Bucharest, Romania. [slides](https://docs.google.com/presentation/d/1qv_4V4WIC1e6Y1WiX1ozBbwumewkemH0So7VNAJaZJE/edit?usp=sharing)
-1. 2018-08-29/31 _SoundCloud's Story of Seeking Sustainable SRE_ SRECon EMEA, Düsseldorf, Germany. [slides](https://docs.google.com/presentation/d/1Z_LsHYeFXJrBOPxjXHuTC069BLvvLb9I1kfED8QCGfQ/edit?usp=sharing)
+1. 2018-08-30 _SoundCloud's Story of Seeking Sustainable SRE_ SRECon EMEA, Düsseldorf, Germany. [video](https://www.usenix.org/conference/srecon18europe/presentation/rabenstein) – [slides](https://docs.google.com/presentation/d/1Z_LsHYeFXJrBOPxjXHuTC069BLvvLb9I1kfED8QCGfQ/edit?usp=sharing)
 1. 2018-09-29 _SRE, DevOps, Google, and you_ IT Arena, Lviv, Ukraine. [slides](https://docs.google.com/presentation/d/1OJwYwEFk1RlDSHL2swiVFy1cS2LNwFe_itDXQA6PEZU/edit?usp=sharing)
 
 ## Planned talks
