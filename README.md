@@ -92,7 +92,7 @@ By Björn “Beorn” Rabenstein.
 
 ## Planned talks
 
-1. 2018-10-09 _TBA_ Berlin Prometheus Meetup, Berlin, Germany.
+1. 2018-10-09 _Prometheus – myths and proverbs_ Berlin Prometheus Meetup, Berlin, Germany.
 1. 2018-10-10 _Lock-free atomic observations for Prometheus histograms in Go_ Meetup of the GDG Berlin Golang, Berlin, Germany.
 1. 2018-11-07 _Go for DevOps, Go for microservices, and what Go is actually good for_ code::dive, Wrocław, Poland.
 1. 2018-11-21 _About SRE – and how (not) to apply it_ Codemotion, Berlin, Germany.
