@@ -91,8 +91,9 @@ By Björn “Beorn” Rabenstein.
 1. 2018-09-29 _SRE, DevOps, Google, and you_ IT Arena, Lviv, Ukraine. [slides](https://docs.google.com/presentation/d/1OJwYwEFk1RlDSHL2swiVFy1cS2LNwFe_itDXQA6PEZU/edit?usp=sharing)
 1. 2018-10-09 _Prometheus – myths and proverbs – part 1: proverbs_ Berlin Prometheus Meetup, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1y8MEAfr3oV8OipcvdFwI1W5XjXl-y2DA8nyGM8N6IDg/edit?usp=sharing)
 1. 2018-10-10 _Lock-free atomic observations for Prometheus histograms in Go_ Meetup of the GDG Berlin Golang, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1wuNNW-g6v8qizIc_IxAGZTj-49TODKF0TYddTA1VDUo/edit?usp=sharing)
+1. 2018-11-07 _Go for DevOps, Go for microservices, and what Go is actually good for_ code::dive, Wrocław, Poland. [slides](https://docs.google.com/presentation/d/1gOreGMGLQJnm_BEz73R-M65ygkww5wj5mPiy9w3fyZU/edit?usp=sharing)
 
 ## Planned talks
 
-1. 2018-11-07 _Go for DevOps, Go for microservices, and what Go is actually good for_ code::dive, Wrocław, Poland.
+1. 2018-11-13 _Prometheus – myths and proverbs – part 2: myths_ Berlin Prometheus Meetup, Berlin, Germany.
 1. 2018-11-21 _About SRE – and how (not) to apply it_ Codemotion, Berlin, Germany.
