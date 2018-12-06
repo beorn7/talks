@@ -98,3 +98,4 @@ By Björn “Beorn” Rabenstein.
 ## Planned talks
 
 1. 2019-03-13 _SRE, DevOps, Google, and you_ DevOps Gathering, Bochum, Germany.
+1. 2019-04-06 _Applied Alerting Philosophy_ DevOps Fest, Kyiv, Ukraine.
