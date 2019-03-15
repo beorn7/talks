@@ -100,3 +100,4 @@ By Björn “Beorn” Rabenstein.
 
 1. 2019-04-06 _Applied Alerting Philosophy_ DevOps Fest, Kyiv, Ukraine.
 1. 2019-05-16 _Prometheus – what’s new and what’s next?_ Devtalks, Cluj, Romania.
+1. 2019-06-13 _Prometheus – what’s new and what’s next?_ DevOpsCon, Berlin, Germany.
