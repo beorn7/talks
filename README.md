@@ -6,47 +6,47 @@ By Björn “Beorn” Rabenstein.
 
 1. 2015-01-29 _Prometheus – Next Generation Monitoring_ (with Julius Volz)
    Meetup of the GDG Berlin Golang, Berlin,
-   Germany. [slides](https://docs.google.com/presentation/d/1bgN0PpmHZ1P7DMWCLvUD2Fd17tb_n_BWLwOX7LNJrMA/edit?usp=sharing)
+   Germany. [slides](https://docs.google.com/presentation/d/1Qhmkwed6jFOGYT0Puen9raJKvbqE5TdB7P0wen6idHM/edit?usp=sharing)
 1. 2015-05-14 _Prometheus: A Next-Generation Monitoring System_ (with Julius
    Volz) SRECon Europe 2015, Dublin,
    Ireland. [video](https://www.usenix.org/conference/srecon15europe/program/presentation/rabenstein)
    –
-   [slides](https://docs.google.com/presentation/d/1Wokf8lWaFWPfLeTjErVeiCfBb7uhluehkEndZCj__8k/edit?usp=sharing)
+   [slides](https://docs.google.com/presentation/d/1a4jCFoo6qfw0dy0ZTgomsDT978h2uwTJu4ZxtxD3NOw/edit?usp=sharing)
 1. 2015-05-15 _Prometheus Workshop_ (with Julius Volz) SRECon Europe 2015,
    Dublin, Ireland. [instructions](https://goo.gl/AdnkCw)
 1. 2015-06-02 _Prometheus: A Next-Generation Monitoring System_ (with Julius
    Volz) DevOpsCon 2015, Berlin,
-   Germany. [slides](https://docs.google.com/presentation/d/1opLc6hBejepHPGC7p_0MDOjgyYfMRMkmk3wSXjJW-ME/edit?usp=sharing)
+   Germany. [slides](https://docs.google.com/presentation/d/1_gK4sTLiatDDCcef-yxyYu-_AJubCpRAnW-JowyW2Ac/edit?usp=sharing)
 1. 2015-07-08 _Prometheus: Designing and Implementing a Modern Monitoring
    Solution in Go_ Gophercon 2015, Denver, CO,
    USA. [video](https://www.youtube.com/watch?v=1V7eJ0jN8-E) –
-   [slides](https://docs.google.com/presentation/d/1T_wdd2KGOPEBhHN6ubendIi87RhtadHOOSAwK0M-Exs/edit?usp=sharing)
+   [slides](https://docs.google.com/presentation/d/1a9Cdh1a_sXTPpvpxZ6VecYbhkTecm2w6L8RTd--jvWU/edit?usp=sharing)
 1. 2015-10-12 _Service Instrumentation, Monitoring, and Alerting with
    Prometheus_ (workshop with Julius Volz) Velocity 2015, New York, NY,
-   USA. [slides](https://docs.google.com/presentation/d/1TyWHb1Ia7PiMNmdhDTr3Lma9qyIWm4M-JM5DuQpV168/edit?usp=sharing)
+   USA. [slides](https://docs.google.com/presentation/d/1NtE1ILYNkpWUaVxbeW9Kil3yMhjblkSnwDPXjnLq9Aw/edit?usp=sharing)
    – [instructions](https://github.com/juliusv/prometheus_workshop)
 1. 2015-10-28 _Service Instrumentation, Monitoring, and Alerting with
    Prometheus_ (workshop with Julius Volz) Velocity 2015, Amsterdam,
    Netherlands. [video (behind paywall)](https://player.oreilly.com/videos/9781491928042)
    –
-   [slides](https://docs.google.com/presentation/d/1TyWHb1Ia7PiMNmdhDTr3Lma9qyIWm4M-JM5DuQpV168/edit?usp=sharing)
+   [slides](https://docs.google.com/presentation/d/1NtE1ILYNkpWUaVxbeW9Kil3yMhjblkSnwDPXjnLq9Aw/edit?usp=sharing)
    – [instructions](https://github.com/juliusv/prometheus_workshop)
 1. 2015-11-03 _The Prometheus Time Series Database_ Codemotion, Berlin,
-   Germany. [slides](https://docs.google.com/presentation/d/1lErYXD6g81pcwkNNQY06liIREjuUa85LDiBzhyttqLs/edit?usp=sharing)
+   Germany. [slides](https://docs.google.com/presentation/d/1orKYrHEld9U81eT8p7VXaIJCvVX_2TbWt4neXeWFgU0/edit?usp=sharing)
 1. 2015-11-13 _Prometheus Workshop_ (with Fabian Reinartz) AWS Pop-up Loft,
-   Berlin, Germany. [slides](https://docs.google.com/presentation/d/1xjkFsIV-wlwUx4mU7I6Z1534-dePX15XjBCLXzNFT-o/edit?usp=sharing)
+   Berlin, Germany. [slides](https://docs.google.com/presentation/d/1K9Q1QMV7X38O6a0JgXOB41skKet3Fw_-p9BcUBtG0Pc/edit?usp=sharing)
 1. 2015-11-14 _Large-Scale Monitoring with Prometheus_ (with Fabian Reinartz)
    GDG DevFest, Berlin,
-   Germany. [slides](https://docs.google.com/presentation/d/1bCh52rQR5fUSvTWOVPv5OYwzF3QWQ4opzgsJHy2C4rw/edit?usp=sharing)
+   Germany. [slides](https://docs.google.com/presentation/d/1Hkvi-nJXOmk9L377ZW8c_-QaxwbX43iXFe5VaOPP5sc/edit?usp=sharing)
 1. 2016-02-15 _How to Optimize Go Code for Really High Performance_ NewStore
    TechTalks, Berlin,
    Germany. [video](https://www.youtube.com/watch?v=ZuQcbqYK0BY) –
-   [slides](https://docs.google.com/presentation/d/1Zu0BdbhMRar7ycEwDi8jepGokTXTDXlKFf7C13tusuI/edit?usp=sharing)
+   [slides](https://docs.google.com/presentation/d/1w1Wl7pchTIOruVGaTk80qOw-V7FgTU8uvDZRRuT5HFc/edit?usp=sharing)
 1. 2016-02-17 _Impact of Go releases on the performance of the Prometheus
    server_ Go 1.6 release party of the GDG Berlin Golang, Berlin,
-   Germany. [slides](https://docs.google.com/presentation/d/1qZlving4s726VWNfKBDDiWlQwOtM12_Pg7DK7VDJIxQ/edit?usp=sharing)
+   Germany. [slides](https://docs.google.com/presentation/d/1t92LhhdcHEfeW-AVnFJ75sNH6F0N7Vua3lhAEscEKwE/edit?usp=sharing)
 1. 2016-04-05 _Instrumenting Code for Modern Service Monitoring_ Istanbul Tech
-   Talks, Istanbul, Turkey. [video](https://www.youtube.com/watch?v=ChXbplvyTqk) – [slides](https://docs.google.com/presentation/d/1zk7YDR1r4FqjrP7Z69Vk0H4uWiALOorjfFtUMuA3rdc/edit?usp=sharing)
+   Talks, Istanbul, Turkey. [video](https://www.youtube.com/watch?v=ChXbplvyTqk) – [slides](https://docs.google.com/presentation/d/1fJWtrhqmPNN3ur2yN08sbmVF23VeKh_y6HKCArmRGxY/edit?usp=sharing)
 1. 2016-04-27 _Monitoring a Kubernetes-backed Microservice Architecture with
    Prometheus_ (with Fabian Reinartz) JAX DevOps, London,
    UK. [slides](https://docs.google.com/presentation/d/12kdCqW0w1uNE81BXV79LTlWyBhuCzbi9yHr1zS8RUi4/edit?usp=sharing)
@@ -54,47 +54,47 @@ By Björn “Beorn” Rabenstein.
    Reinartz) CoreOS Fest, Berlin,
    Germany. [video](https://www.youtube.com/watch?v=8bIxBtJQBzQ) – [slides](https://docs.google.com/presentation/d/1UgwbdB-cDqxBmjVQj4sSVQ5rNCL-M-F0l7Uy-hiy00Q/edit?usp=sharing)
 1. 2016-06-15 _Monitoring a Kubernetes-backed Microservice Architecture with
-   Prometheus_ (with Fabian Reinartz) DevOpsCon 2015, Berlin,
+   Prometheus_ (with Fabian Reinartz) DevOpsCon 2016, Berlin,
    Germany. [video](https://www.youtube.com/watch?v=HnN_HEwo3VY) – [slides](https://docs.google.com/presentation/d/1D-enDvx66pV0uHP2_5ey5-XSu9mZqVym3MukHz-Q8J8/edit?usp=sharing) – [interview (in German)](https://jaxenter.de/microservices-interview-soundcloud-43191)
 1. 2016-06-27 _A Tale of Hashes, Maps, and Runtime_ Meetup of the GDG Berlin
    Golang, Berlin,
-   Germany. [slides](https://docs.google.com/presentation/d/1zGtJFPd1PaJ-dMB_b_RtjyFLLeEtrG2UaZhUEQYXcAs/edit?usp=sharing)
+   Germany. [slides](https://docs.google.com/presentation/d/18dO-WJr_Qns-dAa6fqBhkCJV49s9MaflNWUPpeXAfDc/edit?usp=sharing)
 1. 2016-07-12 _Alerting for Distributed Systems — A Tale of Symptoms and
    Causes, Signals and Noise_ SRECon Europe, Dublin,
-   Ireland. [video](https://www.usenix.org/conference/srecon16europe/program/presentation/rabenstein) – [slides](https://docs.google.com/presentation/d/1vtmOfrVbIYdc-IctePjF6-4hQd9VyN21ZDylQeFWlpA/edit?usp=sharing)
+   Ireland. [video](https://www.usenix.org/conference/srecon16europe/program/presentation/rabenstein) – [slides](https://docs.google.com/presentation/d/1l7YFQ_Cn21ex-xO6PvcyzfaeN7OoayonBRt3-u_17so/edit?usp=sharing)
 1. 2016-08-18 _Grand Treatise of Modern Instrumentation and Orchestration_
-   GolangUK, London, UK. [video](https://www.youtube.com/watch?v=HkEZ1LJ7kzQ&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g) — [slides](https://docs.google.com/a/soundcloud.com/presentation/d/1GjpaIoS5VxmS5SwUAp7zH3aq6v8dGWutofLvJEdmcOw/edit?usp=sharing)
+   GolangUK, London, UK. [video](https://www.youtube.com/watch?v=HkEZ1LJ7kzQ&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g) — [slides](https://docs.google.com/presentation/d/16VlcUg9vtAWmWQm9_4-b848jqqzPNKBLNMrW7Sc10Tg/edit?usp=sharing)
 1. 2016-08-18 [Prometheus Meetup](http://www.meetup.com/Prometheus-London/events/232832512/), London, UK.
 1. 2016-08-25 _The Prometheus Time Series Database_ PromCon, Berlin,
-   Germany. [video](https://www.youtube.com/watch?v=HbnGSNEjhUc) — [slides](https://docs.google.com/presentation/d/1TMvzwdaS8Vw9MtscI9ehDyiMngII8iB_Z5D4QW4U4ho/edit?usp=sharing)
+   Germany. [video](https://www.youtube.com/watch?v=HbnGSNEjhUc) — [slides](https://docs.google.com/presentation/d/1wWypnHI-GIZPO7xkk3ibEoG3gH1M_lUmCWIckxgajt0/edit?usp=sharing)
 1. 2016-08-26 _Plural of Prometheus_ (lightning talk) PromCon, Berlin,
-   Germany. [video](https://www.youtube.com/watch?v=B_CDeYrqxjQ) — [slides](https://docs.google.com/presentation/d/1-Bp7wcUmj6WHCBNLK75nnaX7iwE-8LnobB5a_mrY644/edit?usp=sharing)
+   Germany. [video](https://www.youtube.com/watch?v=B_CDeYrqxjQ) — [slides](https://docs.google.com/presentation/d/1D7BogOIa76-DgQMoyxpuPEgC3ojPdSnbu8K_cSPMjQo/edit?usp=sharing)
 1. 2016-08-31 _Grand Treatise of Modern Instrumentation and Orchestration
    (extended version)_ Meetup of the GDG Berlin Golang, Berlin,
-   Germany. [video](https://youtu.be/OwObdHKN-W0?t=5441) – [slides](https://docs.google.com/a/soundcloud.com/presentation/d/1GjpaIoS5VxmS5SwUAp7zH3aq6v8dGWutofLvJEdmcOw/edit?usp=sharing)
+   Germany. [video](https://youtu.be/OwObdHKN-W0?t=5441) – [slides](https://docs.google.com/presentation/d/16VlcUg9vtAWmWQm9_4-b848jqqzPNKBLNMrW7Sc10Tg/edit?usp=sharing)
 1. 2016-11-08 _Kubernetes and Prometheus – the Beginning of a Beautiful
-   Friendship_ Velocity, Amsterdam, Netherlands. [video](https://www.oreilly.com/learning/kubernetes-and-prometheus-the-beginning-of-a-beautiful-friendship) – [slides](https://docs.google.com/presentation/d/1Ad-Q8752SJmgXsNnSn9RFQP7Kn0kPEt27nDNKDKi9x4/edit?usp=sharing)
-1. 2016-11-12 _Kubernetes and Prometheus – Cloud Natives United_ GDG DevFest, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1Mzso-prudoCsVbZnsM7_Oq7b_Suin3qjclfmxDdstUA/edit?usp=sharing)
-1. 2017-02-03 _What Makes Prometheus a “Next Generation” Monitoring System?_ DESY Zeuthen, Germany. [slides](https://docs.google.com/presentation/d/1yZF8bdjlf8DzLLRmHffgSMv2-mwGWnfsVyIy5MnSxaA/edit?usp=sharing)
-1. 2017-03-30 _Configuring Prometheus for High Performance_ CloudNativeCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=hPC60ldCGm8) – [slides](https://docs.google.com/presentation/d/1ewoVTB7BAQWd5xFsibTH5VlS47SPsjKCRRGos4o1crk/edit?usp=sharing)
-1. 2017-04-12 _Why Your Alerting Should be Based on Labeled Time Series_ TechSummit, Berlin, Germany. [video](https://youtu.be/-oupSWjLmRc) – [slides](https://docs.google.com/presentation/d/1ke1bkF0EnVsJiE18OoNl1vu3cbc9-bqSH4oMEUxtDd0/edit?usp=sharing)
-1. 2017-04-25 _Open Source Database Ecosystem_ (keynote and panel; with Paul Dix, Tal Levy, Peter Zaitsev, Justin Teller) Percona Live, Santa Clara, CA, USA. [video](https://youtu.be/7-vlmsWtGHc?t=1119)
-1. 2017-04-27 _Life of a PromQL Query_ Percona Live, Santa Clara, CA, USA. [video](https://www.youtube.com/watch?v=evPYwNzoltU) – [slides](https://docs.google.com/presentation/d/12aiveDqUe_f390juSML0XKCCP0_Zyzvs6GWr4QoTAis/edit?usp=sharing)
-1. 2017-06-14 _Profiling is for Dev, Monitoring is for Ops – No More!_ DevOpsCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=JcOfGQPSW6E) – [slides](https://docs.google.com/presentation/d/1zNPFqueQTnt_PdfIYFhRQwpCym7AYin9PmdF7qJhs2s/edit?usp=sharing)
-1. 2017-11-04 _What Does Go Tell Us About Google?_ GDG DevFest, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1rn0WeynIHytCRseGBK7dZmq6o7zHSAtq8jOG_nJEvxg/edit?usp=sharing)
-1. 2017-11-16 _Four Years in – How Prometheus Revolutionized Monitoring at SoundCloud_ GOTO, Berlin, Germany. [video](https://www.youtube.com/watch?v=hhZrOHKIxLw) – [slides](https://docs.google.com/presentation/d/1oXxB-nPIG5i9F7rKKfUyNnfepytsb4ytCrg_hWe4Lcs/edit?usp=sharing)
-1. 2017-12-07 _SRE for Mere Mortals_ Code Europe, Warsaw, Poland. [slides](https://docs.google.com/presentation/d/1k_fuTlza1dyWnXG40FReCrtmbvCwTuanbCWKIDXC8s4/edit?usp=sharing)
-1. 2018-02-21 _Modern Monitoring for Dev and Ops_ DevOps Gathering, Bochum, Germany. [video](https://www.youtube.com/watch?v=wHa_jb4NcuA) – [slides](https://docs.google.com/presentation/d/1x7nHYRkdvuKUdcCa66rFFyk6PROVbCJnknI0mpcgZuE/edit?usp=sharing)
-1. 2018-05-30 _Working up the Hierarchy of Service Reliability_ DevOpsCon, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1nXc2O3QmY-3BySMpld14Ri3GSGKg3S85BI55iN_NqGs/edit?usp=sharing) – [interview (in German)](https://jaxenter.de/site-reliability-engineering-interview-78032)
-1. 2018-06-08 _SoundCloud Seeking SRE_ DevTalks, Bucharest, Romania. [slides](https://docs.google.com/presentation/d/1qv_4V4WIC1e6Y1WiX1ozBbwumewkemH0So7VNAJaZJE/edit?usp=sharing)
-1. 2018-08-30 _SoundCloud's Story of Seeking Sustainable SRE_ SRECon EMEA, Düsseldorf, Germany. [video](https://www.usenix.org/conference/srecon18europe/presentation/rabenstein) – [slides](https://docs.google.com/presentation/d/1Z_LsHYeFXJrBOPxjXHuTC069BLvvLb9I1kfED8QCGfQ/edit?usp=sharing)
-1. 2018-09-29 _SRE, DevOps, Google, and you_ IT Arena, Lviv, Ukraine. [slides](https://docs.google.com/presentation/d/1OJwYwEFk1RlDSHL2swiVFy1cS2LNwFe_itDXQA6PEZU/edit?usp=sharing)
-1. 2018-10-09 _Prometheus – myths and proverbs – part 1: proverbs_ Berlin Prometheus Meetup, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1y8MEAfr3oV8OipcvdFwI1W5XjXl-y2DA8nyGM8N6IDg/edit?usp=sharing)
-1. 2018-10-10 _Lock-free atomic observations for Prometheus histograms in Go_ Meetup of the GDG Berlin Golang, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1wuNNW-g6v8qizIc_IxAGZTj-49TODKF0TYddTA1VDUo/edit?usp=sharing)
-1. 2018-11-07 _Go for DevOps, Go for microservices, and what Go is actually good for_ code::dive, Wrocław, Poland. [slides](https://docs.google.com/presentation/d/1gOreGMGLQJnm_BEz73R-M65ygkww5wj5mPiy9w3fyZU/edit?usp=sharing)
-1. 2018-11-13 _Prometheus – myths and proverbs – part 2: myths_ Berlin Prometheus Meetup, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1BGTliYHgZjzLTovT-Drk44SX79LLt9zd7LQ4klU4WIo/edit?usp=sharing)
-1. 2018-11-21 _About SRE – and how (not) to apply it_ Codemotion, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1tudLXvOU-0YKQajDSTTE2dCCqzh43cWfThCU13EoIDU/edit?usp=sharing)
-1. 2019-03-13 _SRE, DevOps, Google, and you_ DevOps Gathering, Bochum, Germany. [slides](https://docs.google.com/presentation/d/1paMkxjuapZ8M34QQ5dSu56qXt__EJBq43sZfVTktY2M/edit?usp=sharing)
+   Friendship_ Velocity, Amsterdam, Netherlands. [video](https://www.oreilly.com/learning/kubernetes-and-prometheus-the-beginning-of-a-beautiful-friendship) – [slides](https://docs.google.com/presentation/d/19A6-qAyZXtArHklsYgF4dwBSV1gq7rYER5CxPrf8bXs/edit?usp=sharing)
+1. 2016-11-12 _Kubernetes and Prometheus – Cloud Natives United_ GDG DevFest, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1isjJ41sDJzEBbFCtFlWoqmHWx-YI3sxqb4CGQ3Tjy4Q/edit?usp=sharing)
+1. 2017-02-03 _What Makes Prometheus a “Next Generation” Monitoring System?_ DESY Zeuthen, Germany. [slides](https://docs.google.com/presentation/d/1f2PNUi3vZnP_LiOAqzqWy0SSgC5xGgIHm9OB_Qsr1qE/edit?usp=sharing)
+1. 2017-03-30 _Configuring Prometheus for High Performance_ CloudNativeCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=hPC60ldCGm8) – [slides](https://docs.google.com/presentation/d/1AUgFJ_vadaO32pHOIId137eScJ5kmN3YFIhs9KwipCg/edit?usp=sharing)
+1. 2017-04-12 _Why Your Alerting Should be Based on Labeled Time Series_ TechSummit, Berlin, Germany. [video](https://youtu.be/-oupSWjLmRc) – [slides](https://docs.google.com/presentation/d/1n9YwvRWPGBgIqHfmBKlJBw0hgCiiS187_aukKKpGbUA/edit?usp=sharing)
+1. 2017-04-25 _Open Source Database Ecosystem_ (keynote and panel; with Paul Dix, Tal Levy, Peter Zaitsev, Justin Teller) Percona Live, Santa Clara, CA, USA. [video](https://youtu.be/7-vlmsWtGHc?t=1119) – [slides](https://docs.google.com/presentation/d/1wLw-6I7JPsbk_fJe6llsBgOyjknu29q9k4L-qldzcRY/edit?usp=sharing)
+1. 2017-04-27 _Life of a PromQL Query_ Percona Live, Santa Clara, CA, USA. [video](https://www.youtube.com/watch?v=evPYwNzoltU) – [slides](https://docs.google.com/presentation/d/1fbgFkT6Zpe35vRF1Otnsur0DNOfyBujT_qWGDsWNWa4/edit?usp=sharing)
+1. 2017-06-14 _Profiling is for Dev, Monitoring is for Ops – No More!_ DevOpsCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=JcOfGQPSW6E) – [slides](https://docs.google.com/presentation/d/1HXpKro_vLLLmzjV48hktBoMBCudtjkUzAI5kFAhpCxo/edit?usp=sharing)
+1. 2017-11-04 _What Does Go Tell Us About Google?_ GDG DevFest, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1LYH4epujIfOIkiyS7AA2EzSY9tNeDcGdiAOfVKH-qRo/edit?usp=sharing)
+1. 2017-11-16 _Four Years in – How Prometheus Revolutionized Monitoring at SoundCloud_ GOTO, Berlin, Germany. [video](https://www.youtube.com/watch?v=hhZrOHKIxLw) – [slides](https://docs.google.com/presentation/d/1hXnLK7hLi88c-uISpZAYDvhcynq9WEVJxWOBZTnLe5g/edit?usp=sharing)
+1. 2017-12-07 _SRE for Mere Mortals_ Code Europe, Warsaw, Poland. [slides](https://docs.google.com/presentation/d/1tSCxZsnXsuYnG7yvunpKZDS7epjWSBEe16iU3ElMu6k/edit?usp=sharing)
+1. 2018-02-21 _Modern Monitoring for Dev and Ops_ DevOps Gathering, Bochum, Germany. [video](https://www.youtube.com/watch?v=wHa_jb4NcuA) – [slides](https://docs.google.com/presentation/d/1zncbrCQRyqFmc0rNfJwc9jfLd0jaApvEUMD-JBC3lEY/edit?usp=sharing)
+1. 2018-05-30 _Working up the Hierarchy of Service Reliability_ DevOpsCon, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1AN343D8CJoZDY6tzNfqVz_JT7Hl0Nl5B9m2mKXRMN7Q/edit?usp=sharing) – [interview (in German)](https://jaxenter.de/site-reliability-engineering-interview-78032)
+1. 2018-06-08 _SoundCloud Seeking SRE_ DevTalks, Bucharest, Romania. [slides](https://docs.google.com/presentation/d/1Zsv1WPBh0Wd-4A3LzpXNftQISEoiL73WR6WoL1JZLcI/edit?usp=sharing)
+1. 2018-08-30 _SoundCloud's Story of Seeking Sustainable SRE_ SRECon EMEA, Düsseldorf, Germany. [video](https://www.usenix.org/conference/srecon18europe/presentation/rabenstein) – [slides](https://docs.google.com/presentation/d/1F4_OSkmMc5qdhNlzKZzWHH41adH14xo6jD0RcLHm8as/edit?usp=sharing)
+1. 2018-09-29 _SRE, DevOps, Google, and you_ IT Arena, Lviv, Ukraine. [slides](https://docs.google.com/presentation/d/1g6zYQ3GU20c0YqzN5TTSzPSM3ysBYUKR5lXitvZY9SA/edit?usp=sharing)
+1. 2018-10-09 _Prometheus – myths and proverbs – part 1: proverbs_ Berlin Prometheus Meetup, Berlin, Germany. [slides](https://docs.google.com/presentation/d/132VaYPCf8-nGC7tdGoVLgj_ZhxkK29sMnC4mZG5bQj0/edit?usp=sharing)
+1. 2018-10-10 _Lock-free atomic observations for Prometheus histograms in Go_ Meetup of the GDG Berlin Golang, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1rIkb2srr0pah4FuT9AcjqIkUlz1Mh89vkPpTF-S4y2s/edit?usp=sharing)
+1. 2018-11-07 _Go for DevOps, Go for microservices, and what Go is actually good for_ code::dive, Wrocław, Poland. [video](https://www.youtube.com/watch?v=mUfiZ4f9-uw) – [slides](https://docs.google.com/presentation/d/1BVakvlMObxIEd0186JTiLDTbMHoVyFXnM6_XW6Y3Ed8/edit?usp=sharing)
+1. 2018-11-13 _Prometheus – myths and proverbs – part 2: myths_ Berlin Prometheus Meetup, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1cpM-BM7Le6Ggq6tYtyAzhYUoxW4-QE2HnVURiirfEBg/edit?usp=sharing)
+1. 2018-11-21 _About SRE – and how (not) to apply it_ Codemotion, Berlin, Germany. [slides](https://docs.google.com/presentation/d/12NYJw3cLJaGnr87c4z3zO8XAxqteiXOtCqS8QyGr1Mc/edit?usp=sharing)
+1. 2019-03-13 _SRE, DevOps, Google, and you_ DevOps Gathering, Bochum, Germany. [slides](https://docs.google.com/presentation/d/1cf9mMSFXQdGff22tj1M0Pi7LOnxOCtsp6sVIitcStnE/edit?usp=sharing)
 
 ## Planned talks
 
