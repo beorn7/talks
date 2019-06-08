@@ -101,4 +101,4 @@ By Björn “Beorn” Rabenstein.
 ## Planned talks
 
 1. 2019-06-12 _Alerting on SLOs like pros_ Berlin Prometheus Meetup, Berlin, Germany. [slides](https://docs.google.com/presentation/d/17C8U5n15g1OpWy4OO07TqEhlFm66KokIz_LPNAjz4Vg/edit?usp=sharing)
-1. 2019-06-13 _Prometheus – what’s new and what’s next?_ DevOpsCon, Berlin, Germany.
+1. 2019-06-13 _Prometheus – what’s new and what’s next?_ DevOpsCon, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1vePVbI-Bgp8D9YsA389rftPgehzA-Zfqbv4UgRy9MN8/edit?usp=sharing)
