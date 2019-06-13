@@ -102,3 +102,4 @@ By Björn “Beorn” Rabenstein.
 
 ## Planned talks
 
+1. 2019-08-23 _Lock-free observations for Prometheus histograms_ GopherCon UK, London, UK.
