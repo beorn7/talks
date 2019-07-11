@@ -103,3 +103,4 @@ By Björn “Beorn” Rabenstein.
 ## Planned talks
 
 1. 2019-08-23 _Lock-free observations for Prometheus histograms_ GopherCon UK, London, UK.
+1. 2019-11-06 _What remains of dashboards and metrics without the hype and anti-patterns_ Velocity, Berlin, Germany.
