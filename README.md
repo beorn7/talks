@@ -76,7 +76,7 @@ By Björn “Beorn” Rabenstein.
    Friendship_ Velocity, Amsterdam, Netherlands. [video](https://www.oreilly.com/learning/kubernetes-and-prometheus-the-beginning-of-a-beautiful-friendship) – [slides](https://docs.google.com/presentation/d/19A6-qAyZXtArHklsYgF4dwBSV1gq7rYER5CxPrf8bXs/edit?usp=sharing)
 1. 2016-11-12 _Kubernetes and Prometheus – Cloud Natives United_ GDG DevFest, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1isjJ41sDJzEBbFCtFlWoqmHWx-YI3sxqb4CGQ3Tjy4Q/edit?usp=sharing)
 1. 2017-02-03 _What Makes Prometheus a “Next Generation” Monitoring System?_ DESY Zeuthen, Germany. [slides](https://docs.google.com/presentation/d/1f2PNUi3vZnP_LiOAqzqWy0SSgC5xGgIHm9OB_Qsr1qE/edit?usp=sharing)
-1. 2017-03-30 _Configuring Prometheus for High Performance_ CloudNativeCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=hPC60ldCGm8) – [slides](https://docs.google.com/presentation/d/1AUgFJ_vadaO32pHOIId137eScJ5kmN3YFIhs9KwipCg/edit?usp=sharing)
+1. 2017-03-30 _Configuring Prometheus for High Performance_ KubeCon + CloudNativeCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=hPC60ldCGm8) – [slides](https://docs.google.com/presentation/d/1AUgFJ_vadaO32pHOIId137eScJ5kmN3YFIhs9KwipCg/edit?usp=sharing)
 1. 2017-04-12 _Why Your Alerting Should be Based on Labeled Time Series_ TechSummit, Berlin, Germany. [video](https://youtu.be/-oupSWjLmRc) – [slides](https://docs.google.com/presentation/d/1n9YwvRWPGBgIqHfmBKlJBw0hgCiiS187_aukKKpGbUA/edit?usp=sharing)
 1. 2017-04-25 _Open Source Database Ecosystem_ (keynote and panel; with Paul Dix, Tal Levy, Peter Zaitsev, Justin Teller) Percona Live, Santa Clara, CA, USA. [video](https://youtu.be/7-vlmsWtGHc?t=1119) – [slides](https://docs.google.com/presentation/d/1wLw-6I7JPsbk_fJe6llsBgOyjknu29q9k4L-qldzcRY/edit?usp=sharing)
 1. 2017-04-27 _Life of a PromQL Query_ Percona Live, Santa Clara, CA, USA. [video](https://www.youtube.com/watch?v=evPYwNzoltU) – [slides](https://docs.google.com/presentation/d/1fbgFkT6Zpe35vRF1Otnsur0DNOfyBujT_qWGDsWNWa4/edit?usp=sharing)
@@ -105,3 +105,5 @@ By Björn “Beorn” Rabenstein.
 
 1. 2019-10-04 _SRE in the Third Age_ SRECon EMEA, Dublin, Ireland.
 1. 2019-11-06 _What remains of dashboards and metrics without the hype and anti-patterns_ Velocity, Berlin, Germany.
+1. 2019-11-08 _Prometheus Histograms – Past, Present, and Future_ PromCon, Munich, Germany.
+1. 2019-11-20 _How to Include Latency in SLO-based Alerting_ KubeCon + CloudNativeCon, San Diego, CA, USA.
