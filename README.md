@@ -99,7 +99,7 @@ By Björn “Beorn” Rabenstein.
 1. 2019-05-16 _Prometheus – what’s new and what’s next?_ Devtalks, Cluj, Romania. [slides](https://docs.google.com/presentation/d/1fre0-82s52tjGW2unA22kIuhAmTB0Y4lySvI9cD7IGU/edit?usp=sharing)
 1. 2019-06-12 _Alerting on SLOs like pros_ Berlin Prometheus Meetup, Berlin, Germany. [slides](https://docs.google.com/presentation/d/17C8U5n15g1OpWy4OO07TqEhlFm66KokIz_LPNAjz4Vg/edit?usp=sharing)
 1. 2019-06-13 _Prometheus – what’s new and what’s next?_ DevOpsCon, Berlin, Germany. [video](https://youtu.be/u9X2o-DzX7s) – [slides](https://docs.google.com/presentation/d/1vePVbI-Bgp8D9YsA389rftPgehzA-Zfqbv4UgRy9MN8/edit?usp=sharing)
-1. 2019-08-23 _Lock-free observations for Prometheus histograms_ GopherCon UK, London, UK. [slides](https://docs.google.com/presentation/d/1CzFpRKFcr5GbZeciGZ8Dc2Q09jcam-SCsinPVA0ZJCE/edit?usp=sharing)
+1. 2019-08-23 _Lock-free observations for Prometheus histograms_ GopherCon UK, London, UK. [video](https://www.youtube.com/watch?v=VmrEG-3bWyM) – [slides](https://docs.google.com/presentation/d/1CzFpRKFcr5GbZeciGZ8Dc2Q09jcam-SCsinPVA0ZJCE/edit?usp=sharing)
 
 ## Planned talks
 
