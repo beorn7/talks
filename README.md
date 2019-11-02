@@ -100,7 +100,7 @@ By Björn “Beorn” Rabenstein.
 1. 2019-06-12 _Alerting on SLOs like pros_ Berlin Prometheus Meetup, Berlin, Germany. [slides](https://docs.google.com/presentation/d/17C8U5n15g1OpWy4OO07TqEhlFm66KokIz_LPNAjz4Vg/edit?usp=sharing)
 1. 2019-06-13 _Prometheus – what’s new and what’s next?_ DevOpsCon, Berlin, Germany. [video](https://youtu.be/u9X2o-DzX7s) – [slides](https://docs.google.com/presentation/d/1vePVbI-Bgp8D9YsA389rftPgehzA-Zfqbv4UgRy9MN8/edit?usp=sharing)
 1. 2019-08-23 _Lock-free observations for Prometheus histograms_ GopherCon UK, London, UK. [video](https://www.youtube.com/watch?v=VmrEG-3bWyM) – [slides](https://docs.google.com/presentation/d/1CzFpRKFcr5GbZeciGZ8Dc2Q09jcam-SCsinPVA0ZJCE/edit?usp=sharing)
-1. 2019-10-04 _SRE in the Third Age_ SRECon EMEA, Dublin, Ireland. [slides](https://docs.google.com/presentation/d/1eB6-4szYlLEOeuhOG36ftV_zPe8Gvb-MBRxEN5VW_lE/edit?usp=sharing)
+1. 2019-10-04 _SRE in the Third Age_ SRECon EMEA, Dublin, Ireland. [video](https://www.youtube.com/watch?v=jmFVKgVVNnI) – [slides](https://docs.google.com/presentation/d/1eB6-4szYlLEOeuhOG36ftV_zPe8Gvb-MBRxEN5VW_lE/edit?usp=sharing)
 
 ## Planned talks
 
