@@ -108,3 +108,4 @@ By Björn “Beorn” Rabenstein.
 ## Planned talks
 
 1. 2019-11-20 _How to Include Latency in SLO-based Alerting_ KubeCon + CloudNativeCon, San Diego, CA, USA. [slides](https://docs.google.com/presentation/d/13-OxK0dJ4MX8O9yhzkRaRCZF3fbDCGZehOpx7h-nPx8/edit?usp=sharing)
+1. 2020-01-23 _How to instrument Go code in 2020_ GoDays, Berlin, Germany.
