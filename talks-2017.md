@@ -1,0 +1,11 @@
+# Talks and workshops 2017
+
+1. 2017-02-03 _What Makes Prometheus a “Next Generation” Monitoring System?_ DESY Zeuthen, Germany. [slides](https://docs.google.com/presentation/d/1f2PNUi3vZnP_LiOAqzqWy0SSgC5xGgIHm9OB_Qsr1qE/edit?usp=sharing)
+1. 2017-03-30 _Configuring Prometheus for High Performance_ KubeCon + CloudNativeCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=hPC60ldCGm8) – [slides](https://docs.google.com/presentation/d/1AUgFJ_vadaO32pHOIId137eScJ5kmN3YFIhs9KwipCg/edit?usp=sharing)
+1. 2017-04-12 _Why Your Alerting Should be Based on Labeled Time Series_ TechSummit, Berlin, Germany. [video](https://youtu.be/-oupSWjLmRc) – [slides](https://docs.google.com/presentation/d/1n9YwvRWPGBgIqHfmBKlJBw0hgCiiS187_aukKKpGbUA/edit?usp=sharing)
+1. 2017-04-25 _Open Source Database Ecosystem_ (keynote and panel; with Paul Dix, Tal Levy, Peter Zaitsev, Justin Teller) Percona Live, Santa Clara, CA, USA. [video](https://youtu.be/7-vlmsWtGHc?t=1119) – [slides](https://docs.google.com/presentation/d/1wLw-6I7JPsbk_fJe6llsBgOyjknu29q9k4L-qldzcRY/edit?usp=sharing)
+1. 2017-04-27 _Life of a PromQL Query_ Percona Live, Santa Clara, CA, USA. [video](https://www.youtube.com/watch?v=evPYwNzoltU) – [slides](https://docs.google.com/presentation/d/1fbgFkT6Zpe35vRF1Otnsur0DNOfyBujT_qWGDsWNWa4/edit?usp=sharing)
+1. 2017-06-14 _Profiling is for Dev, Monitoring is for Ops – No More!_ DevOpsCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=JcOfGQPSW6E) – [slides](https://docs.google.com/presentation/d/1HXpKro_vLLLmzjV48hktBoMBCudtjkUzAI5kFAhpCxo/edit?usp=sharing)
+1. 2017-11-04 _What Does Go Tell Us About Google?_ GDG DevFest, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1LYH4epujIfOIkiyS7AA2EzSY9tNeDcGdiAOfVKH-qRo/edit?usp=sharing)
+1. 2017-11-16 _Four Years in – How Prometheus Revolutionized Monitoring at SoundCloud_ GOTO, Berlin, Germany. [video](https://www.youtube.com/watch?v=hhZrOHKIxLw) – [slides](https://docs.google.com/presentation/d/1hXnLK7hLi88c-uISpZAYDvhcynq9WEVJxWOBZTnLe5g/edit?usp=sharing)
+1. 2017-12-07 _SRE for Mere Mortals_ Code Europe, Warsaw, Poland. [slides](https://docs.google.com/presentation/d/1tSCxZsnXsuYnG7yvunpKZDS7epjWSBEe16iU3ElMu6k/edit?usp=sharing)
