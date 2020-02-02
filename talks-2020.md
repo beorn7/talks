@@ -7,4 +7,7 @@
 
 ## Upcoming
 
+1. 2020-04-01 _Better Histograms for Prometheus_ KubeCon + CloudNativeCon, Amsterdam, Netherlands.
+
+
 
