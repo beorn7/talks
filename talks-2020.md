@@ -8,6 +8,7 @@
 ## Upcoming
 
 1. 2020-04-01 _Better Histograms for Prometheus_ KubeCon + CloudNativeCon, Amsterdam, Netherlands.
+1. 2020-04-25 _Why the Prometheus Instrumentation Library is Flawed and What to Do About It_ GopherCon Europe, Berlin, Germany.
 
 
 
