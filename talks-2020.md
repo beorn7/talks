@@ -7,7 +7,6 @@
 
 ## Upcoming
 
-1. 2020-04-01 _Better Histograms for Prometheus_ KubeCon + CloudNativeCon, Amsterdam, Netherlands.
-1. 2020-04-25 _Why the Prometheus Instrumentation Library is Flawed and What to Do About It_ GopherCon Europe, Berlin, Germany.
-1. 2020-04-27 _Exemplars and Other Metric Metadata in Prometheus_ CloudNein, Berlin, Germany.
-
+1. 2020-07-?? _Why the Prometheus Instrumentation Library is Flawed and What to Do About It_ GopherCon Europe, Berlin, Germany.
+1. 2020-07-?? _Exemplars and Other Metric Metadata in Prometheus_ CloudNein, Berlin, Germany.
+1. 2020-08-15 _Better Histograms for Prometheus_ KubeCon + CloudNativeCon, Amsterdam, Netherlands.
