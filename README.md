@@ -10,6 +10,7 @@ By Björn “Beorn” Rabenstein.
 * [2018](talks-2018.md).
 * [2019](talks-2019.md).
 * [2020](talks-2020.md).
+* [2021](talks-2021.md).
 
 ## Podcasts and interviews
 
