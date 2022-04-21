@@ -1,4 +1,4 @@
-# Talks and workshops 2016
+# Talks 2016
 
 1. 2016-02-15 _How to Optimize Go Code for Really High Performance_ NewStore
    TechTalks, Berlin,

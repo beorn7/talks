@@ -1,4 +1,4 @@
-# Talks and workshops 2017
+# Talks 2017
 
 1. 2017-02-03 _What Makes Prometheus a “Next Generation” Monitoring System?_ DESY Zeuthen, Germany. [slides](https://docs.google.com/presentation/d/1f2PNUi3vZnP_LiOAqzqWy0SSgC5xGgIHm9OB_Qsr1qE/edit?usp=sharing)
 1. 2017-03-30 _Configuring Prometheus for High Performance_ KubeCon + CloudNativeCon, Berlin, Germany. [video](https://www.youtube.com/watch?v=hPC60ldCGm8) – [slides](https://docs.google.com/presentation/d/1AUgFJ_vadaO32pHOIId137eScJ5kmN3YFIhs9KwipCg/edit?usp=sharing)

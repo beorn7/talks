@@ -1,4 +1,4 @@
-# Talks and workshops 2019
+# Talks 2019
 
 1. 2019-03-13 _SRE, DevOps, Google, and you_ DevOps Gathering, Bochum, Germany. [video](https://www.youtube.com/watch?v=q_6Ln8VR96c) – [slides](https://docs.google.com/presentation/d/1cf9mMSFXQdGff22tj1M0Pi7LOnxOCtsp6sVIitcStnE/edit?usp=sharing)
 1. 2019-04-06 _Applied Alerting Philosophy_ DevOps Fest, Kyiv, Ukraine. [video](https://www.youtube.com/watch?v=JhxfZ0VIPP0) – [slides](https://docs.google.com/presentation/d/1JNSY4rohwG4REocNCXSg2njj4xSt2iZw81etJN3_uCE/edit?usp=sharing)

@@ -1,4 +1,4 @@
-# Talks and workshops 2018
+# Talks 2018
 
 1. 2018-02-21 _Modern Monitoring for Dev and Ops_ DevOps Gathering, Bochum, Germany. [video](https://www.youtube.com/watch?v=wHa_jb4NcuA) – [slides](https://docs.google.com/presentation/d/1zncbrCQRyqFmc0rNfJwc9jfLd0jaApvEUMD-JBC3lEY/edit?usp=sharing)
 1. 2018-05-30 _Working up the Hierarchy of Service Reliability_ DevOpsCon, Berlin, Germany. [slides](https://docs.google.com/presentation/d/1AN343D8CJoZDY6tzNfqVz_JT7Hl0Nl5B9m2mKXRMN7Q/edit?usp=sharing)
