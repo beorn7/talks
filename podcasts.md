@@ -9,3 +9,5 @@
 1. 2019-09-25 The Cloudcast: _Dashboards, Metrics and Observability_ – [podcast](https://www.thecloudcast.net/2019/09/dashboards-metrics-and-observability.html)
 1. 2019-12-27 The Changelog Episode 375: _Gerhard goes to KubeCon (part 2) talking Prometheus, Grafana, & Crossplane_ – [podcast](https://changelog.com/podcast/375)
 1. 2020-06-02 Adventures in DevOps Episode 37: _Monitoring your applications with Prometheus_ – [podcast](https://devchat.tv/adventures-in-devops/devops-037-monitoring-your-applications-with-prometheus-with-bjorn-rabenstein/)
+1. 2022-04-18 Grafana's Big Tent: _Why SLOs are MVPs in observability_ – [podcast](https://bigtent.fm/3)
+1. 2022-04-21 Go Time Episode 226: _Instrumentation for Gophers_ – [podcast](https://changelog.com/gotime/226)
