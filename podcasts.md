@@ -12,3 +12,5 @@
 1. 2022-04-18 Grafana's Big Tent: _Why SLOs are MVPs in observability_ – [podcast](https://bigtent.fm/3)
 1. 2022-04-21 Go Time Episode 226: _Instrumentation for Gophers_ – [podcast](https://changelog.com/gotime/226)
 1. 2023-06-19 PurePerformance Episode 184: _The De-Facto Standard of Metrics Capture and Its Untold Histogram Story_ – [podcast](https://www.spreaker.com/user/pureperformance/puerperformance-ep184-beorn-prometheus)
+1. 2023-06-27 Optimize All The Things: _Optimizing SW Adoption & Maintenance: API Compatibility Guarantees_ – [podcast](https://rss.com/podcasts/oat/1015811/)
+1. 2023-07-11 Go Time Episode 284: _Gophers Say! GopherCon EU 2023_ – [podcast](https://changelog.com/gotime/284)
