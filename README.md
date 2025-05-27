@@ -14,6 +14,7 @@ By Björn “Beorn” Rabenstein.
 * [2022](talks-2022.md).
 * [2023](talks-2023.md).
 * [2024](talks-2024.md).
+* [2025](talks-2025.md).
 
 ## Podcasts and interviews
 
